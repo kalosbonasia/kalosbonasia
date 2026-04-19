@@ -6,7 +6,7 @@ L'esperienza maturata in oltre trent'anni di consulenza presso 113 organizzazion
 
 ### Profilo e responsabilità direttiva
 
-Opero attualmente come executive program manager con responsabilità sulla governance di portfolio e sull'analisi predittiva delle performance. Ho introdotto in Italia l'adozione dell'ecosistema Atlassian (Jira dal 2004 e BigPicture dal 2014) elevando lo strumento tecnico a infrastruttura per il governo di progetti complessi, non soltanto in ambito IT.
+Opero attualmente come executive program manager con responsabilità sulla governance di portfolio e sull'analisi predittiva delle performance. Ho introdotto in Italia l'adozione dell'ecosistema Atlassian (Jira dal 2004 e BigPicture dal 2014) elevando lo strumento tecnico a infrastruttura per il governo di progetti complessi, in ambito IT e oltre.
 
 Il mio percorso poggia su tre fondamenti:
 
@@ -18,7 +18,7 @@ Il mio percorso poggia su tre fondamenti:
 
 ### Oltre il codice: epistemologia e memoria
 
-L'indagine professionale si estende alla comprensione della tecnologia come fenomeno culturale e antropologico, superando la dimensione puramente strumentale.
+L'indagine professionale si estende alla comprensione della tecnologia come fenomeno culturale e antropologico, oltre la dimensione puramente strumentale.
 
 * **Epistemologia delle organizzazioni**: Attraverso la collaborazione con *Stultifera Navis*, analizzo come la mediazione digitale riconfiguri silenziosamente i modelli di pensiero, l'agire collettivo e la sedimentazione della memoria istituzionale.
 * **Archeoastronomia**: Studio le testimonianze di conoscenze astronomiche e matematiche custodite nelle architetture del passato. Questa ricerca mira a interpretare la codifica dell'ordine cosmico nel paesaggio terrestre e la trasmissione della conoscenza attraverso i millenni.
@@ -28,9 +28,7 @@ L'indagine professionale si estende alla comprensione della tecnologia come feno
 ### Navigazione e contatti
 
 * **[Stultifera Navis](https://www.stultiferanavis.it/gli-autori/calogero-kalos-bonasia)**: Saggi sulla filosofia della tecnica e analisi dei segnali.
-* **[Medium](https://medium.com/@kalosbonasia)**: Approfondimenti metodologici e riflessioni professionali.
+* **[Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Bonasia%2C+Calogero%22)**: Pubblicazioni accademiche in open access.
 * **[Archivio articoli](https://github.com/kalosbonasia/articoli)**: Raccolta delle pubblicazioni e dei contributi tecnici.
 
 Per interazioni di natura professionale o intellettuale: **bizetakalos@gmail.com**
-
-
